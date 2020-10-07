@@ -17,7 +17,7 @@
  *
  *	MIT License
  *	
- *	Copyright (c) Rotronic AG 2020 
+ *	
  *	
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 
